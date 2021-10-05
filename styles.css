@@ -45,12 +45,13 @@ main {
     border-radius: 100%;
     display: flex;
     flex-wrap: wrap;
-    height: 50vw;
+    height: 48vw;
     justify-content: space-around;
     margin: auto;
     padding: 1.5%;
     position: relative;
     width: 50vw;
+    top: 22px;
 }
 
 .clickable {
